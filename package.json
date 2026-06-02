@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-bnr-ro",
+  "version": "0.1.0",
+  "description": "National Bank of Romania (Banca Naţională a României, BNR) FX reference rates MCP. Keyless.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "bnr-ro"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-bnr-ro"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
