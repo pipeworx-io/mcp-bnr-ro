@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bnr-ro",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "National Bank of Romania (Banca Naţională a României, BNR) FX reference rates MCP. Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9d79086b46a4c61be2d1e71b139572230a4260b5cbb640660f6e7770a97b8e30",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-2ad622a679a35e36314ba78113161f0820cc3218abe57fc91366e82a9098c258",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
