@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/bnr-ro",
   "title": "Bnr Ro",
   "description": "National Bank of Romania (Banca Naţională a României, BNR) FX reference rates MCP. Keyless.",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/bnr-ro",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-bnr-ro",
